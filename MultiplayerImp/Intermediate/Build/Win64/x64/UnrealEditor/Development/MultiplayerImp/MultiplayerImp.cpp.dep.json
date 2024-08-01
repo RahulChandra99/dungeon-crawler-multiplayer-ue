@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\multiplayerimp.cpp",
+        "Source": "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\source\\multiplayerimp\\multiplayerimp.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\multiplayerimpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\intermediate\\build\\win64\\x64\\multiplayerimpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerimp\\definitions.multiplayerimp.h",
-            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\multiplayerimp.h"
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerimp\\definitions.multiplayerimp.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\source\\multiplayerimp\\multiplayerimp.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

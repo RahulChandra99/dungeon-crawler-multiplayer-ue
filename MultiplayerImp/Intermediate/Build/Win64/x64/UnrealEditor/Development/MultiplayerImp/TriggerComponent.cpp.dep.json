@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\source\\multiplayerimp\\private\\dungeoncrawler\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\intermediate\\build\\win64\\x64\\multiplayerimpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerimp\\definitions.multiplayerimp.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\source\\multiplayerimp\\public\\dungeoncrawler\\triggercomponent.h",
+            "d:\\ue 5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue 5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue 5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue 5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerimp\\uht\\triggercomponent.generated.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\dungeon_crawler\\dungeon-crawler-multiplayer-ue\\multiplayerimp\\source\\multiplayerimp\\debughelper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

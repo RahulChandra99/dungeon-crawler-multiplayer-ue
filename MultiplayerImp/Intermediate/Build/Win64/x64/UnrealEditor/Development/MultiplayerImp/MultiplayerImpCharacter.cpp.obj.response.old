@@ -1,18 +1,17 @@
 D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source\MultiplayerImp\MultiplayerImpCharacter.cpp
 /I .
-/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerImp\UHT
-/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
+/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source\MultiplayerImp\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
@@ -274,6 +273,9 @@ D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source\MultiplayerImp\Mu
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
+/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerImp\UHT
+/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source
+/I D:\GameDevelopment\UnrealEngine\Projects\MultiplayerImp\Source\MultiplayerImp\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh\UHT

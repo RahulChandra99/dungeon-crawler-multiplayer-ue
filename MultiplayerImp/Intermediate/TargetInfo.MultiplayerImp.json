@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "MultiplayerImp",
-			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
+			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\DUNGEON_CRAWLER\\dungeon-crawler-multiplayer-ue\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MultiplayerImpEditor",
-			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs",
+			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\DUNGEON_CRAWLER\\dungeon-crawler-multiplayer-ue\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

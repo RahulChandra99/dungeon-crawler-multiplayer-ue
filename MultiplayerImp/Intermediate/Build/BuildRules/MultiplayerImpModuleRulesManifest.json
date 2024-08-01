@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp\\MultiplayerImp.Build.cs",
-		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
-		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs"
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\DUNGEON_CRAWLER\\dungeon-crawler-multiplayer-ue\\MultiplayerImp\\Source\\MultiplayerImp\\MultiplayerImp.Build.cs",
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\DUNGEON_CRAWLER\\dungeon-crawler-multiplayer-ue\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\DUNGEON_CRAWLER\\dungeon-crawler-multiplayer-ue\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }

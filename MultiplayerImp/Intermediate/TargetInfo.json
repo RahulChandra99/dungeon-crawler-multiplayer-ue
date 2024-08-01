@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerImp",
+			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerImpEditor",
+			"Path": "D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

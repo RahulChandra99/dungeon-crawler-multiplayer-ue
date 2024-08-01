@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\private\\dungeoncrawler\\mover.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\multiplayerimpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerimp\\definitions.multiplayerimp.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\public\\dungeoncrawler\\mover.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerimp\\uht\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

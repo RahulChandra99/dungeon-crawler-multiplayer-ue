@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\private\\dungeoncrawler\\dcgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\multiplayerimpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerimp\\definitions.multiplayerimp.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\source\\multiplayerimp\\public\\dungeoncrawler\\dcgamemodebase.h",
+            "d:\\ue 5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue 5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue 5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue 5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\gamedevelopment\\unrealengine\\projects\\multiplayerimp\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerimp\\uht\\dcgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

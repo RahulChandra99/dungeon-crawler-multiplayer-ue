@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp\\MultiplayerImp.Build.cs",
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImp.Target.cs",
+		"D:\\GameDevelopment\\UnrealEngine\\Projects\\MultiplayerImp\\Source\\MultiplayerImpEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
